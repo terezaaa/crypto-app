@@ -1,0 +1,33 @@
+package trading
+
+enum class Currency {
+    BTC,
+    ETH,
+    LTC,
+    MATIC,
+    VET,
+    RVN,
+    DASH,
+    ATOM,
+    ONT,
+    XRP,
+    XLM,
+    LINK,
+    TRX,
+    QTUM,
+    XTZ,
+    IOST,
+    BCH,
+    EOS,
+    IOTA,
+    BAT,
+    ETC,
+    BNB,
+    ZEC,
+    NEO,
+    USDC,
+    BUSD,
+    XMR,
+    ADA,
+    USDT
+}
